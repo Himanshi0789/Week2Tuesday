@@ -16,6 +16,7 @@ public class Week2Tuesday {
      */
     public static void main(String[] args) {
        
+        System.out.println("First commit");
         // TODO code application logic here
     }
     
